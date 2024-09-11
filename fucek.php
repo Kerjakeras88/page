@@ -117,14 +117,14 @@ if (isset($_GET['page'])) {
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" />
+  <meta name="og:url" content="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" />
   <meta name="og:title" content="<?php echo $BRANDS ?> ⚡Situs Slot dengan Deposit 5000 Melalui Dana Mudah Menang" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="<?php echo $BRANDS ?> Istilah ini mengacu pada permainan slot online yang memungkinkan pemain melakukan deposit dengan nominal minimum Rp5.000 untuk memulai permainan. Opsi ini menjadi favorit bagi pemain dengan modal terbatas. Proses deposit dapat dilakukan dengan mudah menggunakan berbagai metode pembayaran digital seperti DANA, OVO, GoPay, LinkAja, atau melalui transfer bank, sehingga memudahkan transaksi bagi para pemain." />
   <meta name="og:image" content="https://i.imgur.com/qRRBTGW.jpeg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="icon" type="image/x-icon" href="https://laz-img-cdn.alicdn.com/tfs/TB1ODo.f2b2gK0jSZK9XXaEgFXa-64-64.png" />
-  <link rel="canonical" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" />
+  <link rel="canonical" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" />
   <link rel="amphtml" href="https://armadura-de-dios.com/pea/?amp=<?php echo $SMALLBRANDS ?>" />
   <!-- start preload -->
   <link rel="preload" href="https://i.imgur.com/qRRBTGW.jpeg" as="image" />
@@ -745,7 +745,7 @@ if (isset($_GET['page'])) {
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"<?php echo $BRANDS ?> ⚡Situs Slot dengan Deposit 5000 Melalui Dana Mudah Menang","image":"https://i.imgur.com/qRRBTGW.jpeg","category":"Televisi & Video","brand":{"@type":"Brand","name":"<?php echo $SMALLBRANDS ?>","url":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"<?php echo $BRANDS ?> Istilah ini mengacu pada permainan slot online yang memungkinkan pemain melakukan deposit dengan nominal minimum Rp5.000 untuk memulai permainan. Opsi ini menjadi favorit bagi pemain dengan modal terbatas. Proses deposit dapat dilakukan dengan mudah menggunakan berbagai metode pembayaran digital seperti DANA, OVO, GoPay, LinkAja, atau melalui transfer bank, sehingga memudahkan transaksi bagi para pemain.","url":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>","offers":{"@type":"Offer","url":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"<?php echo $BRANDS ?> ⚡Situs Slot dengan Deposit 5000 Melalui Dana Mudah Menang","image":"https://i.imgur.com/qRRBTGW.jpeg","category":"Televisi & Video","brand":{"@type":"Brand","name":"<?php echo $SMALLBRANDS ?>","url":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"<?php echo $BRANDS ?> Istilah ini mengacu pada permainan slot online yang memungkinkan pemain melakukan deposit dengan nominal minimum Rp5.000 untuk memulai permainan. Opsi ini menjadi favorit bagi pemain dengan modal terbatas. Proses deposit dapat dilakukan dengan mudah menggunakan berbagai metode pembayaran digital seperti DANA, OVO, GoPay, LinkAja, atau melalui transfer bank, sehingga memudahkan transaksi bagi para pemain.","url":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>","offers":{"@type":"Offer","url":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -755,35 +755,35 @@ if (isset($_GET['page'])) {
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>",
+            "@id": "https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>",
             "name": "Slot Gacor Hari Ini"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>",
+            "@id": "https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>",
             "name": "Slot Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>",
+            "@id": "https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>",
             "name": "Situs Slot"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>",
+            "@id": "https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>",
             "name": "Slot Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>",
+            "@id": "https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>",
             "name": "<?php echo $BRANDS ?> ⚡Situs Slot dengan Deposit 5000 Melalui Dana Mudah Menang"
           }
         }]
@@ -883,10 +883,10 @@ if (isset($_GET['page'])) {
         <div class="lzd-links-bar" id="topActionLinks">
             <div class="links-list header-content ID id">
                 <div class="top-links-item" id="topActionInternalFeedback" style="display:none;">
-                    <a class="highlight" target="_blank" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">INTERNAL FEEDBACK</a>
+                    <a class="highlight" target="_blank" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">INTERNAL FEEDBACK</a>
                 </div>
                   <div class="top-links-item" id="topActionFeedback">
-                      <a class="highlight" target="_blank" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">SLOT GACOR</a>
+                      <a class="highlight" target="_blank" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">SLOT GACOR</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
                         <span><?php echo $BRANDS ?></span>
@@ -900,7 +900,7 @@ if (isset($_GET['page'])) {
               <img class="get-the-app-lazada-qr" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1b43RtrvpK1RjSZFqXXcXUVXa.png" alt="">
             </div>
           <div class="promotion-text">
-            <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
               <div class="get-the-app-download-text">
                 <p>Belanja di App banyak untungnya:</p>
 <ul>
@@ -924,10 +924,10 @@ if (isset($_GET['page'])) {
 <div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
         <div class="app-stores">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="store-link">
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="store-link">
             <i class="app-apple"></i>
           </a>
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="store-link">
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="store-link">
             <i class="app-google"></i>
           </a>
         </div>
@@ -945,31 +945,31 @@ if (isset($_GET['page'])) {
   <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
         <li class="care-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="care-item-anchor"> 
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="care-item-anchor"> 
                   <span class="care-icon help-center">
                   </span>
                   Pusat Bantuan
                 </a>
         </li>
         <li class="care-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="care-item-anchor"> 
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="care-item-anchor"> 
                   <span class="care-icon order-payment">
                   </span>
                   Order &amp; Pembayaran
                 </a>
-            <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="care-item-anchor care-item-anchor-next">
+            <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="care-item-anchor care-item-anchor-next">
                 Pembatalan Pesanan
             </a>
         </li>
         <li class="care-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="care-item-anchor"> 
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="care-item-anchor"> 
                   <span class="care-icon shipping-delivery">
                   </span>
                   Pengiriman
                 </a>
         </li>
         <li class="care-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="care-item-anchor"> 
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="care-item-anchor"> 
                   <span class="care-icon returns-refunds">
                   </span>
                   Pengembalian Barang &amp; Dana
@@ -980,7 +980,7 @@ if (isset($_GET['page'])) {
               <span class="care-icon chat"></span>
               <span class="care-title">Hubungi kami di</span>
                 <span class="--js-csc-trigger">
-                  <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                  <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                       Live Chat (24 Jam)
                   </a>
                 </span>
@@ -1005,7 +1005,7 @@ if (isset($_GET['page'])) {
           <i class="icon icon-arrow-on-button"></i>
         </button>
       </div>
-      <p class="track-order-more-text">Untuk bantuan silakan,<a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" title="Untuk bantuan silakan,">Klik disini</a></p>
+      <p class="track-order-more-text">Untuk bantuan silakan,<a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" title="Untuk bantuan silakan,">Klik disini</a></p>
     </form>
     <div class="error-message" id="topActionTrackErrorMsg"></div>
   </div>
@@ -1023,32 +1023,32 @@ if (isset($_GET['page'])) {
   <div class="top-popup-content lzd-account-content">
       <ul class="account-list">
           <li class="account-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
                     <span class="account-icon test manage-account"></span>Panel Akun
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
                     <span class="account-icon test my-orders"></span>Pesanan Saya
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
                     <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
                     <span class="account-icon test my-reviews"></span>Ulasan Saya
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="account-item-anchor">
                     <span class="account-icon test returns"></span>Pengembalian &amp;  Pembatalan
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" class="account-item-anchor" id="account-popup-logout">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" class="account-item-anchor" id="account-popup-logout">
                     <span class="account-icon test logout"></span>Logout
                 </a>
           </li>
@@ -1060,7 +1060,7 @@ if (isset($_GET['page'])) {
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm="dhome"><img src="https://images.1138403.com/wsd-images-prod/bangbosf4/template/wt8802_logo/wps_logobangbos(1)_20240522220451.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
+              <div class="lzd-logo-content"><a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm="dhome"><img src="https://images.1138403.com/wsd-images-prod/bangbosf4/template/wt8802_logo/wps_logobangbos(1)_20240522220451.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button"></div>
               </div>
@@ -1069,7 +1069,7 @@ if (isset($_GET['page'])) {
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -1138,275 +1138,275 @@ if (isset($_GET['page'])) {
          </li>    
         <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
             <li class="sub-item-remove-arrow" data-cate="cate_1_1">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Handphone</span>
                 </a>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Laptop</span>
                 </a>
                         <script type="text" class="J_data_0_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Desktop</span>
                 </a>
                         <script type="text" class="J_data_0_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Kamera</span>
                 </a>
                         <script type="text" class="J_data_0_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Game Console</span>
                 </a>
                         <script type="text" class="J_data_0_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Gadget</span>
                 </a>
                         <script type="text" class="J_data_0_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Drone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Media Player","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Drone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Media Player","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="sub-item-remove-arrow" data-cate="cate_1_7">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Tablet</span>
                 </a>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Handphone</span>
                 </a>
                         <script type="text" class="J_data_1_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Monitor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Monitor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Audio</span>
                 </a>
                         <script type="text" class="J_data_1_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Berteknologi</span>
                 </a>
                         <script type="text" class="J_data_1_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Kamera</span>
                 </a>
                         <script type="text" class="J_data_1_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Flash","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Flash","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Penyimpanan Data</span>
                 </a>
                         <script type="text" class="J_data_1_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Printer</span>
                 </a>
                         <script type="text" class="J_data_1_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>/">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>/">
                     <span>Aksesoris Tablet</span>
                 </a>
                         <script type="text" class="J_data_1_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Komponen Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Pakaian Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_0">
-                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Dress","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Atasan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rok","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Dress","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Atasan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rok","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_2_1">
-                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Lingerie, Baju Tidur &amp; Santai</span>
                 </a>
                         <script type="text" class="J_data_2_2">
-                            [{"childCategoryName":"Bra","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Bra","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Sepatu Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_3">
-                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Wedges","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sandal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Wedges","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sandal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_2_4">
-                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Payung","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Topi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Scarf","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Payung","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Topi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Scarf","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Perlengkapan Sepak Bola</span>
                 </a>
                         <script type="text" class="J_data_10_11">
-                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bola","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tas","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bola","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tas","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Suku Cadang &amp; Peralatan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rem","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rem","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Interior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Persneling","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pedal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Persneling","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pedal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Exterior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Kamera Mobil, Audio &amp; Video</span>
                 </a>
                         <script type="text" class="J_data_11_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Headunit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spiker","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"GPS","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Headunit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spiker","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"GPS","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Perawatan &amp; Pengkilat Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Ban &amp; Velg Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Oli &amp; Cairan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Perlengkapan Berkendara &amp; Helm</span>
                 </a>
                         <script type="text" class="J_data_11_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://www.lazada.co.id/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://www.lazada.co.id/shop-pakaian-hujan/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://www.lazada.co.id/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://www.lazada.co.id/shop-pakaian-hujan/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Suku Cadang &amp; Peralatan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Busi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Busi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris &amp; Elektronik Motor</span>
                 </a>
                         <script type="text" class="J_data_11_9">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_10">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Kendaraan</span>
                 </a>
                         <script type="text" class="J_data_11_11">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
         </ul>
@@ -1416,28 +1416,28 @@ if (isset($_GET['page'])) {
             </div>
         </div>
         <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">Slot Gacor</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">Slot Online</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Slot Gacor Hari Ini</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>
@@ -1450,7 +1450,7 @@ if (isset($_GET['page'])) {
   </div>
                 </div>
               <div class="lzd-nav-cart">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm="dcart"><span class="cart-icon"></span>
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm="dcart"><span class="cart-icon"></span>
                 <span class="cart-num" id="topActionCartNumber"></span></a>
               </div>
                 <div class="lzd-header-banner" id="topActionLiveUpBanner">
@@ -1462,7 +1462,7 @@ if (isset($_GET['page'])) {
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -1530,275 +1530,275 @@ if (isset($_GET['page'])) {
          </li>    
         <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
             <li class="sub-item-remove-arrow" data-cate="cate_1_1">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Handphone</span>
                 </a>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Laptop</span>
                 </a>
                         <script type="text" class="J_data_0_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Desktop</span>
                 </a>
                         <script type="text" class="J_data_0_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"All-In-One","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Kamera</span>
                 </a>
                         <script type="text" class="J_data_0_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"360 Cameras","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"IP Cameras","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Video Camera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Game Console</span>
                 </a>
                         <script type="text" class="J_data_0_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Gadget</span>
                 </a>
                         <script type="text" class="J_data_0_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Drone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Media Player","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Drone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Media Player","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="sub-item-remove-arrow" data-cate="cate_1_7">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Tablet</span>
                 </a>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Handphone</span>
                 </a>
                         <script type="text" class="J_data_1_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tongsis","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Phone Holder","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Monitor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Monitor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Audio PC","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mousepad","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Audio</span>
                 </a>
                         <script type="text" class="J_data_1_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Berteknologi</span>
                 </a>
                         <script type="text" class="J_data_1_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Kamera</span>
                 </a>
                         <script type="text" class="J_data_1_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Flash","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Flash","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Penyimpanan Data</span>
                 </a>
                         <script type="text" class="J_data_1_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"OTG Drive","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Internal SSD","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Printer</span>
                 </a>
                         <script type="text" class="J_data_1_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Printer 3D","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Memori Printer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>/">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>/">
                     <span>Aksesoris Tablet</span>
                 </a>
                         <script type="text" class="J_data_1_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Komponen Komputer</span>
                 </a>
                         <script type="text" class="J_data_1_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Motherboard","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Prosesor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Soundcard","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Front Panel","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Pakaian Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_0">
-                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Dress","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Atasan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rok","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Jeans","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Dress","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Atasan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rok","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Baju Muslim</span>
                 </a>
                         <script type="text" class="J_data_2_1">
-                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Lingerie, Baju Tidur &amp; Santai</span>
                 </a>
                         <script type="text" class="J_data_2_2">
-                            [{"childCategoryName":"Bra","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Bra","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Shapewear","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bodysuit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Sepatu Wanita</span>
                 </a>
                         <script type="text" class="J_data_2_3">
-                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Wedges","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sandal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sneakers","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Wedges","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sandal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris</span>
                 </a>
                         <script type="text" class="J_data_2_4">
-                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Payung","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Topi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Scarf","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Payung","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Topi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Scarf","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Perlengkapan Sepak Bola</span>
                 </a>
                         <script type="text" class="J_data_10_11">
-                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bola","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tas","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bola","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Tas","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
         </ul>
         <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Suku Cadang &amp; Peralatan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rem","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rem","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suspensi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Interior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Persneling","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pedal","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Persneling","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pedal","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris Exterior Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_2">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Kamera Mobil, Audio &amp; Video</span>
                 </a>
                         <script type="text" class="J_data_11_3">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Headunit","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spiker","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"GPS","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Headunit","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Spiker","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Subwoofer","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"GPS","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Perawatan &amp; Pengkilat Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_4">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Ban&amp; Velg Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Oli &amp; Cairan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_6">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Perlengkapan Berkendara &amp; Helm</span>
                 </a>
                         <script type="text" class="J_data_11_7">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://www.lazada.co.id/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://www.lazada.co.id/shop-pakaian-hujan/"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"https://www.lazada.co.id/jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"https://www.lazada.co.id/shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"https://www.lazada.co.id/shop-pakaian-hujan/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Suku Cadang &amp; Peralatan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Busi","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Filter Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Busi","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Aksesoris &amp; Elektronik Motor</span>
                 </a>
                         <script type="text" class="J_data_11_9">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pengukur","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Ban, Velg, Oli &amp; Cairan Motor</span>
                 </a>
                         <script type="text" class="J_data_11_10">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
-                <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+                <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                     <span>Kendaraan</span>
                 </a>
                         <script type="text" class="J_data_11_11">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"}]
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"},{"childCategoryName":"Motor","childCategoryUrl":"https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"}]
                         </script></li>
         </ul>
     </ul>
@@ -1807,28 +1807,28 @@ if (isset($_GET['page'])) {
             </div>
         </div>
         <nav class="lzd-menu-labels" data-spm="menu">
-            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">Slot Gacor</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">Slot Online</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Slot Gacor Hari Ini</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">
+            <a class="lzd-menu-labels-item" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>
@@ -2127,7 +2127,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
   <a href="https://armadura-de-dios.com/pea/?amp=<?php echo $SMALLBRANDS ?>" rel="nofollow noreferrer" class="register">DAFTAR <?php echo $BRANDS ?></a>
   <a href="https://armadura-de-dios.com/pea/?amp=<?php echo $SMALLBRANDS ?>" rel="nofollow noreferrer" class="login">LOGIN <?php echo $BRANDS ?></a>
   </div>
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="<?php echo $BRANDS ?> ⚡Situs Slot dengan Deposit 5000 Melalui Dana Mudah Menang" src="https://i.imgur.com/qRRBTGW.jpeg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title"><?php echo $BRANDS ?> ⚡Situs Slot dengan Deposit 5000 Melalui Dana Mudah Menang</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">17.178.932 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"><?php echo $BRANDS ?></a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p><?php echo $BRANDS ?> Istilah ini mengacu pada permainan slot online yang memungkinkan pemain melakukan deposit dengan nominal minimum Rp5.000 untuk memulai permainan. Opsi ini menjadi favorit bagi pemain dengan modal terbatas. Proses deposit dapat dilakukan dengan mudah menggunakan berbagai metode pembayaran digital seperti DANA, OVO, GoPay, LinkAja, atau melalui transfer bank, sehingga memudahkan transaksi bagi para pemain.</p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.50.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.25.000</span><span class="pdp-product-price__discount">-60%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://armadura-de-dios.com/pea/?amp=<?php echo $SMALLBRANDS ?>"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN <?php echo $BRANDS ?></span></button></a><a href="https://armadura-de-dios.com/pea/?amp=<?php echo $SMALLBRANDS ?>" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR <?php echo $BRANDS ?></span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title"><?php echo $BRANDS ?></div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="<?php echo $BRANDS ?> ⚡Situs Slot dengan Deposit 5000 Melalui Dana Mudah Menang" src="https://i.imgur.com/qRRBTGW.jpeg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title"><?php echo $BRANDS ?> ⚡Situs Slot dengan Deposit 5000 Melalui Dana Mudah Menang</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">17.178.932 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"><?php echo $BRANDS ?></a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p><?php echo $BRANDS ?> Istilah ini mengacu pada permainan slot online yang memungkinkan pemain melakukan deposit dengan nominal minimum Rp5.000 untuk memulai permainan. Opsi ini menjadi favorit bagi pemain dengan modal terbatas. Proses deposit dapat dilakukan dengan mudah menggunakan berbagai metode pembayaran digital seperti DANA, OVO, GoPay, LinkAja, atau melalui transfer bank, sehingga memudahkan transaksi bagi para pemain.</p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.50.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.25.000</span><span class="pdp-product-price__discount">-60%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://armadura-de-dios.com/pea/?amp=<?php echo $SMALLBRANDS ?>"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN <?php echo $BRANDS ?></span></button></a><a href="https://armadura-de-dios.com/pea/?amp=<?php echo $SMALLBRANDS ?>" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR <?php echo $BRANDS ?></span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title"><?php echo $BRANDS ?></div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script>
@@ -2361,8 +2361,8 @@ if (!lzdDocCookies.getItem('t_uid')) {
     if (!done && (!this.readyState || this.readyState==='loaded' || this.readyState==='complete')) {
       done = true;
         var requestHost = 'https://h5-alimebot.lazada.co.id';
-        var botUrl = 'https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>';
-        var loginUrl = 'https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>';
+        var botUrl = 'https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>';
+        var loginUrl = 'https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>';
       window._CSCChatInstance = new CSChat({ bot: { from: window.g_config.cscBot, requestHost: requestHost, botUrl: botUrl, }, loginUrl: loginUrl, });
     }
   };
@@ -2376,11 +2376,11 @@ if (!lzdDocCookies.getItem('t_uid')) {
   <div class="lzd-footer-width-25">
     <h3 class="footer-title">Layanan Pelanggan</h3>
     <ul class="footer-list">
-      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Pusat Bantuan</a></li>
-      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Cara Pembelian</a></li>
-      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Pengiriman</a></li>
-      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Kebijakan Produk Internasional</a></li>
-      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Cara Pengembalian</a></li>
+      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Pusat Bantuan</a></li>
+      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Cara Pembelian</a></li>
+      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Pengiriman</a></li>
+      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Kebijakan Produk Internasional</a></li>
+      <li class="footer-li"><a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Cara Pengembalian</a></li>
       <li class="--js-csc-trigger">
         <a style="background: #f36f36; display: inline-block; color:#0F136D ; padding: 2px 4px; cursor:pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
       </li>
@@ -2390,31 +2390,31 @@ if (!lzdDocCookies.getItem('t_uid')) {
     <h3 class="footer-title">Jelajahi Lazada</h3>
     <ul class="footer-list">
       <li class="footer-li">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Tentang Lazada</a>
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Tentang Lazada</a>
       </li>
       <li class="footer-li">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Afﬁliate Program</a>
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Afﬁliate Program</a>
       </li>
       <li class="footer-li">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Karir</a>
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Karir</a>
       </li>
       <li class="footer-li">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Syarat &amp; Ketentuan</a>
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Syarat &amp; Ketentuan</a>
       </li>
       <li class="footer-li">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Kebijakan Privasi</a>
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Kebijakan Privasi</a>
       </li>
       <li class="footer-li">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Press &amp; Media</a>
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Press &amp; Media</a>
       </li>
       <li class="footer-li">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Jual Di Lazada</a>
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Jual Di Lazada</a>
       </li>
       <li class="footer-li">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Lazada Security</a>
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Lazada Security</a>
       </li>
       <li class="footer-li">
-          <a href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>">Intellectual Property Protection</a>
+          <a href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>">Intellectual Property Protection</a>
       </li>
     </ul>
   </div>
@@ -2427,9 +2427,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
           <div class="text">Download the App</div>
         </div>
         <div class="pull-left" style="width: 290px">
-          <a class="lzd-footer-sprit pull-left icon-appStore-footer icon-appstore-footer" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"></a>
-          <a class="lzd-footer-sprit pull-left icon-android-footer icon-appstore-footer" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"></a>
-          <a class="pull-left icon-huawei-footer" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"></a>
+          <a class="lzd-footer-sprit pull-left icon-appStore-footer icon-appstore-footer" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"></a>
+          <a class="lzd-footer-sprit pull-left icon-android-footer icon-appstore-footer" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"></a>
+          <a class="pull-left icon-huawei-footer" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"></a>
         </div>
       </div>
       <div class="clear"></div>
@@ -2477,37 +2477,37 @@ if (!lzdDocCookies.getItem('t_uid')) {
         <div class="lzd-footer-inner">
   <div class="lzd-footer-width-50" data-spm="venture">
     <h3 class="lzd-footer-title">Lazada Southeast Asia</h3>
-    <a class="lzd-footer-sprit lzd-footer-country country-id" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"></a>
-    <a class="lzd-footer-sprit lzd-footer-country country-my" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"></a>
-    <a class="lzd-footer-sprit lzd-footer-country country-ph" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"></a>
-    <a class="lzd-footer-sprit lzd-footer-country country-sg" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"></a>
-    <a class="lzd-footer-sprit lzd-footer-country country-th" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"></a>
-    <a class="lzd-footer-sprit lzd-footer-country country-vn" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-id" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-my" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-ph" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-sg" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-th" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-vn" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>"></a>
   </div>
   <div class="lzd-footer-width-25" data-spm="sns">
     <h3 class="lzd-footer-title">Follow Us</h3>
-      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_fbk" style="display: inline-block; width: 32px; height: 32px">
+      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_fbk" style="display: inline-block; width: 32px; height: 32px">
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01Wdetn224xMIRNihao_!!6000000007457-2-tps-34-34.png" style="width: 32px; height: 32px" alt="fb">
       </a>
-      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_lnk" style="display: inline-block; width: 32px; height: 32px">
+      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_lnk" style="display: inline-block; width: 32px; height: 32px">
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01D6oQr31GPG1ONK9jd_!!6000000000614-2-tps-34-34.png" style="width: 32px; height: 32px" alt="linkin">
       </a>
-      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ytb" style="display: inline-block; width: 32px; height: 32px">
+      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ytb" style="display: inline-block; width: 32px; height: 32px">
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01zt1zOu1zsFnzoIWje_!!6000000006769-2-tps-34-34.png" style="width: 32px; height: 32px" alt="yt">
       </a>
-      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px">
+      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px">
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt">
       </a>
-      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" style="display: inline-block; width: 32px; height: 32px">
+      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" style="display: inline-block; width: 32px; height: 32px">
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN011gka8L1E0PIZlHK7e_!!6000000000289-2-tps-34-34.png" style="width: 32px; height: 32px" alt="ins">
       </a>
-      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_twr" style="display: inline-block; width: 32px; height: 32px">
+      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_twr" style="display: inline-block; width: 32px; height: 32px">
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01bSHOIg1O2N9lO20XK_!!6000000001647-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tw">
       </a>
-      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_tkk" style="display: inline-block; width: 32px; height: 32px">
+      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_tkk" style="display: inline-block; width: 32px; height: 32px">
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN0193C9ay1QIykTmUlwk_!!6000000001954-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tiktok">
       </a>
-      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
+      <a class="lzd-follow-us-icon" href="https://simantan.pekalongankota.go.id/page/<?php echo $SMALLBRANDS ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
         <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01EShTwh1uKIMLn9AjA_!!6000000006018-0-tps-34-34.jpg" style="width: 32px; height: 32px" alt="Lazada Blg">
       </a>
   </div>
